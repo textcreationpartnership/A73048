@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A funerall poeme vpon the death of the learned deuine Mr. Hugh Broughton who deceased in anno 1612. August the 4. Interred the 7.</title>
+            <author>Primroes, W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1612</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73048</idno>
+            <idno type="STC">STC 20393</idno>
+            <idno type="STC">ESTC S1266</idno>
+            <idno type="EEBO-CITATION">99900432</idno>
+            <idno type="PROQUEST">99900432</idno>
+            <idno type="VID">152108</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73048)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152108)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2015:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A funerall poeme vpon the death of the learned deuine Mr. Hugh Broughton who deceased in anno 1612. August the 4. Interred the 7.</title>
+                  <author>Primroes, W.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Jaggard?,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1612]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: W. Primroes.</note>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Printer's name conjectured by STC.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broughton, Hugh, 1549-1612 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:152108:1"/>
+            <head>A Funerall Poeme vpon the Death of the learned Deuine M<hi rend="sup">r.</hi> HVGH BROVGHTON, who deceaſed in <hi>Anno</hi> 1612. <hi>Auguſt the</hi> 4. <hi>Interred the</hi> 7.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">A</seg> Comely Dame in ſorrowes garments dreſt,</l>
+               <l>Where chriſtall ſliding Thame doth gently creepe,</l>
+               <l>With her ſoft Palme did beate her yuorie Breſt,</l>
+               <l>And rent her yellow Locks, her Roſey Cheeke</l>
+               <l>Shee in a flood of brakiſh Teares did ſteepe:</l>
+               <l>
+                  <hi>Rachel</hi> ſhe ſeemd, old <hi>Iſraels</hi> beautious Wife,</l>
+               <l>Mourning her Sonnes, whoſe ſiluer cord of life</l>
+               <l>Was cut by murderous <hi>Herods</hi> fell and bloody Knife.</l>
+            </lg>
+            <lg>
+               <l>Betwixt her lilly Hands the Virgin held</l>
+               <l>Two <hi>Testaments;</hi> the one defac'd with ruſt,</l>
+               <l>Vanquiſht with time, and ouergrowne with eld;</l>
+               <l>All ſpoyld with careleſſe ſpots, all ſoyld with duſt:</l>
+               <l>It ſeem'd the ſame, the which <hi>IEHOVAH</hi> iuſt</l>
+               <l>VVith his celeſtiall Finger did ingraue,</l>
+               <l>And on the top of ſmoaking <hi>Sinai</hi> gaue</l>
+               <l>To him, whom <hi>Pharaohs</hi> Daughter found in watry caue.</l>
+            </lg>
+            <lg>
+               <l>The other, ſeeming freſh and fayre yclad</l>
+               <l>In Veluet couer, filleted with Gold,</l>
+               <l>VVhite Bullions and Crymſon tyes it had;</l>
+               <l>The pumiſht Leaues were ſeemely to behould:</l>
+               <l>That ſpotles Lambe, which trayterous <hi>Iudas</hi> ſould,</l>
+               <l>With bloody foyle, which ſtreamed from his ſide,</l>
+               <l>Them guilt, when in <hi>Ieruſalem</hi> he di'd,</l>
+               <l>For to redeeme his Loue, his Doue, his Deare, his Bride.</l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:152108:2"/>
+               <l>
+                  <hi>Theology</hi> (for ſo men cal'd the Mayde,)</l>
+               <l>Vpon theſe Volumes caſt her moyſtned eyes;</l>
+               <l>And who ſhall now (quoth ſhee) ſince <hi>BROVGHTONS</hi> dead,</l>
+               <l>Find out the Treaſure, which within you lyes,</l>
+               <l>Shaddow'd in High and Heauenly myſteries?</l>
+               <l>And who ſhall now (quoth ſhee) to others tell,</l>
+               <l>VVhen as the VVorlds great Grandſier <hi>ADAM</hi> fell,</l>
+               <l>Baniſht from flowry <hi>Eden,</hi> where he firſt did dwell?</l>
+            </lg>
+            <lg>
+               <l>VVhat meanes that monſtrous Man, which <hi>Babels</hi> King</l>
+               <l>Did in a troubled ſtumber once behold,</l>
+               <l>Like huge <hi>Goliah,</hi> ſlayne by <hi>Dauids</hi> Sling;</l>
+               <l>VVith dreadfull Head, and cutled Lockes of Gold:</l>
+               <l>VVith Breſtes and mighty Armes of Siluer mould:</l>
+               <l>With his ſwolne Belly, and large Sides of Braſſe:</l>
+               <l>With Iron Legges; with Feete of mingled maſſe,</l>
+               <l>One part compoſ'd of Clay, one part of Iron was?</l>
+            </lg>
+            <lg>
+               <l>VVhat meanes the Lion, and the Eagles winges:</l>
+               <l>The ſauage Beare, that in his horrid iaw,</l>
+               <l>Three Ribbes of ſome deuowred Carkeis bringes:</l>
+               <l>The Leopard, which wiſe <hi>Belteſhatſer</hi> ſaw,</l>
+               <l>With dreadfull mouth, and with a murdering paw?</l>
+               <l>VVhat meanes that horrid hideous helliſh Beaſt,</l>
+               <l>With iron Teeth, and with his horned Creſt?</l>
+               <l>All theſe, and thouſands moe, by <hi>BROVGHTON</hi> were expreſt.</l>
+            </lg>
+            <lg>
+               <l>T'was hee, that brancht <hi>MESSIAHS</hi> ſacred ſtem</l>
+               <l>In curious Knottes, and chayn'd his glorious Race</l>
+               <l>From princely <hi>Adam</hi> to the noble <hi>Sem;</hi>
+               </l>
+               <l>So downe to him, that had <hi>Choniahs</hi> place;</l>
+               <l>And from his Sonnes, to <hi>Mary</hi> full of grace,</l>
+               <l>A Mother-mayde, a bleſſed Virgin wife,</l>
+               <l>The Daughter of her Sonne, which gaue him life,</l>
+               <l>Which did redeeme the World from ſinne and Satans ſtrife.</l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:152108:3"/>
+               <l>T'was hee, that grau'd the Names of <hi>Iaakobs</hi> Sonnes</l>
+               <l>In pretious Iewels vpon <hi>Aarons</hi> Breſt;</l>
+               <l>In <hi>Sardius, Ruben;</hi> which as Water runnes:</l>
+               <l>
+                  <hi>Simeon</hi> in <hi>Topaz,</hi> bafer then the reft:</l>
+               <l>
+                  <hi>Leui</hi> in <hi>Emerauld,</hi> for doctrine beſt:</l>
+               <l>
+                  <hi>Iuda</hi> in <hi>Carbuncle,</hi> like Heauens eye;</l>
+               <l>In <hi>Saphir, Iſachar;</hi> like th'azur'd Skye:</l>
+               <l>
+                  <hi>Sardonix, Zebulon;</hi> which neere the Sea doth lye:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Dan</hi> in the flowry <hi>Hyacinth</hi> is cut:</l>
+               <l>In <hi>Achat, Nepthali:</hi> and war-like <hi>Gadd</hi>
+               </l>
+               <l>In bloody <hi>Amethyſt: Aſher</hi> is put</l>
+               <l>In <hi>Chryſolite:</hi> the <hi>Beryll, Ioſeph</hi> had:</l>
+               <l>Young <hi>Beniamin</hi> old <hi>Iaakobs</hi> owne ſweetlad</l>
+               <l>in <hi>Iaſper:</hi> each within his ſeuerall Stone,</l>
+               <l>Our great <hi>Bezaleel</hi> caru'd; who now is gone,</l>
+               <l>To prayſe the Lambe, &amp; him, that ſits on Throne.</l>
+            </lg>
+            <lg>
+               <l>Yee Sacred <hi>Muſes</hi> that in <hi>Shiloah</hi> ſwimme,</l>
+               <l>And in celeſtiall Deaw doe dippe your Quill;</l>
+               <l>The which your <hi>Phebus</hi> mighty <hi>Elohim,</hi>
+               </l>
+               <l>In ſiluer ſtreaming channels doth diſtill</l>
+               <l>From top of <hi>Hermon,</hi> and of <hi>Sion</hi> hill:</l>
+               <l>As you your great Creators prayſe rehearſe,</l>
+               <l>Ah, lend one broken ſigh, one broken Verſe,</l>
+               <l>One dolefull Ode, or Hymme, to decke his Sable Hearſe.</l>
+            </lg>
+            <lg>
+               <l>And you poore <hi>Iewes,</hi> the iſſue of old <hi>Sem,</hi>
+               </l>
+               <l>Which did in Hony-flowing <hi>Canaan</hi> dwell,</l>
+               <l>And ſwayd the Scepter of <hi>Ieruſalem,</hi>
+               </l>
+               <l>Vntill ſome ſnaky-furie ſent from Hell,</l>
+               <l>Did you inrage with ſpight, and malice fell,</l>
+               <l>To put your Life to death: Ah now repent</l>
+               <l>For murdering your Lord! Ah now lament</l>
+               <l>His death, that would haue brought you into <hi>Iapheths</hi> tent<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:152108:4"/>
+               <l>And yee poore ſoules, that couet <hi>Adams</hi> tongue,</l>
+               <l>Which did remaine in <hi>Hebers</hi> holy line,</l>
+               <l>When the aſpyring Heauens-ſcaling thronge,</l>
+               <l>Aboue the bigge ſwolne Cloudes did ſeeke to clime:</l>
+               <l>(And is there then ſuch pride in earthly ſlime?)</l>
+               <l>Doe you lament this ſiluer pinniond Swan,</l>
+               <l>As white as Salmon-ſnow, a happy man,</l>
+               <l>That ſpake like <hi>Adams</hi>-ſelfe the ſpeach of <hi>Canaan.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Beſides, the <hi>Greeke</hi> plentious in wordes and ſence:</l>
+               <l>The <hi>Calde</hi> wiſe, th' <hi>Arabian</hi> profound,</l>
+               <l>The <hi>Latine</hi> pleaſing with his eloquence:</l>
+               <l>The brauing <hi>Spaniſh</hi> with her lofty ſound:</l>
+               <l>The <hi>Tuſcane</hi> graue, with many a lawrell Crowne:</l>
+               <l>The liſping <hi>French,</hi> which fittes a Ladyes vaine:</l>
+               <l>The <hi>German,</hi> like the people good and plaine:</l>
+               <l>The <hi>Engliſh</hi> pure and rich, his natiue Countries ſtraine.</l>
+            </lg>
+            <lg>
+               <l>Ah ſcoffing <hi>Iſmaels,</hi> doe not offer wrong</l>
+               <l>Vnto his quiet vrne; doe not defame</l>
+               <l>The ſiluer touch of that harmonious Tongue:</l>
+               <l>Peace durty mouthes; ah hold your peace for ſhame,</l>
+               <l>Spue not your Gall vpon a dead mans name:</l>
+               <l>But wake ô north wind, come ô ſouth &amp; blow,</l>
+               <l>with your Myrh-breathing mouths ſweet odours throw</l>
+               <l>Into the empty ayre, fro<g ref="char:cmbAbbrStroke">̄</g> 
+                  <hi>BROVGHTONS</hi> Tombe below.</l>
+            </lg>
+            <lg>
+               <l>This ſayd, the Virgin vaniſhed away,</l>
+               <l>And Heauen did put her mourning Mantle on;</l>
+               <l>
+                  <hi>Hyſperions</hi> Child, the Father of the Day,</l>
+               <l>That with his blazing blade, full brightly ſhone,</l>
+               <l>Clothed in ſable his ſtar-glittering throne:</l>
+               <l>The Clouds fro<g ref="char:cmbAbbrStroke">̄</g> their ſwolne eyes ſhed chriſtall ſhowers,</l>
+               <l>And all for him, that liues in ſiluer Bowers,</l>
+               <l>And <hi>Halleluiah</hi> ſings with Thrones, &amp; glorious powers.</l>
+            </lg>
+            <closer>
+               <signed>W. Primroes.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
